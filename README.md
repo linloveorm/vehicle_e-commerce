@@ -27,3 +27,7 @@ If you have any questions or suggestions, check out the [MongoDB Community Forum
 
 #Run Docker
 docker compose up
+
+#**Noted**
+change .env.sample to .env 
+replace <username>:<password> as mongodb username and password
