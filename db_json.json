@@ -1,0 +1,54 @@
+{
+    "company": [{
+        "car": [{
+            "brand": "Toyota",
+            "model": "Yaris",
+            "year": "2020",
+            "color": "white",
+            "mileage": 132000.0,
+            "status": "active"
+        },
+        {
+            "brand": "Honda",
+            "model": "Jazz",
+            "year": "2021",
+            "color": "white",
+            "mileage": 98700.0,
+            "status": "inactive"
+        },
+        {
+            "brand": "BMW",
+            "model": "i4 M50",
+            "year": "2022",
+            "color": "blonde",
+            "mileage": 32000.0,
+            "status": "sold"
+        }]
+    },
+    {
+        "broker": [{
+            "name": "Jane doe",
+            "branches": ["Bangkok", "Chonburi"],
+            "mobile phone": "+66987654321",
+            "email": "jane.doe@test.com",
+            "telegram": "+66987654321",
+            "whatapp": ""
+        },
+        {
+            "name": "John doe",
+            "branches": ["Bangkok", "Trad", "Rayong"],
+            "mobile phone": "+66987653321",
+            "email": "john.doe@test.com",
+            "telegram": "",
+            "whatapp": "+66987653321"
+        },
+        {
+            "name": "Jack doe",
+            "branches": ["Bangkok", "Phatum Thani", "Nonthaburi"],
+            "mobile phone": "+66986653321",
+            "email": "jack.doe@test.com",
+            "any contact": "",
+            "whatapp": "+66986653321"
+        }]
+    }]
+}
